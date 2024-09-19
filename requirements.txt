@@ -1,4 +1,4 @@
 #You should install libs for your environment, 
-#then you can import in inside te container.
+#then you can import it inside te container.
 requests
 Pillow
