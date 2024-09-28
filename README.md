@@ -5,7 +5,7 @@ Előfeltételek az egy Linux rendszer (vagy WSL), amire fel van telepítve a Doc
 Magában lefutó "egylövetű" alkalmazást tudtok készíteni ennek segítségével.
 
 Telepítés: https://docs.docker.com/engine/install/
-Ne felejtségek el, hogy a post install parancsokat is lefuttassátok, 
+Ne felejtsétek el, hogy a post install parancsokat is lefuttassátok, 
 pl.: a usereteket adjátok hozzá a docker grouphoz, ha nem SUDO-val akarjátok indítani!
 Link: https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user
 
